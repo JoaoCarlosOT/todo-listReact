@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    left: 0px;
+
+}
+
+.link{
+    color: rgb(25, 26, 36);
+    text-decoration: none;
+    font-weight: 500;
+    margin: 10px;
+}
